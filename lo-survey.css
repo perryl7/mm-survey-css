@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
 
 body { font-family: 'Montserrat', Arial, Helvetica, sans-serif !important; }
+#container { width: 800px !important; }
 
 /* Header Section Styles */
 #logo { 
