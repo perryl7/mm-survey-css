@@ -6,20 +6,21 @@ body { font-family: 'Montserrat', Arial, Helvetica, sans-serif !important; }
 #idf024li13 section { background-color: #c8102e; } /* Header section */
 
 /* Font Styles */
-#header h2 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; }
-#title1 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; }
-#field1 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; }
-#title2 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; }
-#field2 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; }
-#title3 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; }
-#field4 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; }
-#title4 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; }
-#field4 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; }
-#title5 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; }
-#field5 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; }
-#title6 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; }
-#field6 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; }
-#title7 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; }
-#field7 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; }
-#title8 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; }
-#field8 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; }
+#header h2 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; } /* Form Title */
+#title13 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; color: #FFFFFF; background-color: #c8102e; } /* Opinion text */
+#title1 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; } /* Loan ID label */
+#field1 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; } /* Loan ID field */
+#title2 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; } /* Borrower Name label */
+#field2 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; } /* Borrower Name field */
+#title3 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; } /* Processor Name label */
+#field4 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; } /* Processor Name field */
+#title4 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; } /* Processor Rating label */
+#field4 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; } /* Processor Rating field */
+#title5 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; } /* Underwriter Name label */
+#field5 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; } /* Underwriter Name field */
+#title6 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; } /* Underwriter Rating label */
+#field6 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; } /* Underwriter Rating field */
+#title7 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; } /* Closer Name label */
+#field7 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; } /* Closer Name field */
+#title8 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; } /* Closer Rating label */
+#field8 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; } /* Closer Rating field */
