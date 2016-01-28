@@ -18,6 +18,7 @@ body { font-family: 'Montserrat', Arial, Helvetica, sans-serif !important; }
 }
 /* Field Font Styles */
 /* Opinion text */
+.info { border:none !important; }
 #title13 { 
   font-family: 'Montserrat', Arial, Helvetica, sans-serif; 
   color: #FFFFFF; 
@@ -64,12 +65,15 @@ input.text {
     border: 0px !important;
     background-color: transparent !important;
     background: #fff !important;
-    width: 200px;
+    width: 200px;b
     margin: 0px 20px;
 }
 
 /* Button Styles */
-#saveForm { 
+.buttons {
+    text-align:center;
+}
+#saveForm {
   font-family: 'Montserrat', Arial, Helvetica, sans-serif;
   color: #FFFFFF; 
   background-color: #c8102e; 
@@ -81,6 +85,7 @@ input.text {
   text-shadow: none;
   font-size: 16px;
   cursor:pointer;
+  magrin-top:40px;
 }
 #saveForm:hover {
     background-color:#b40e29;
