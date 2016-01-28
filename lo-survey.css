@@ -1,11 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
 
 body { font-family: 'Montserrat', Arial, Helvetica, sans-serif !important; }
-
-#Field108 {
-  background-color: transparent; 
-  border-style: solid; 
-  border-width: 0px 0px 1px 0px; 
-  border-color: darkred;
-}
-#title108 { color:green; font-family: 'Montserrat', Arial, Helvetica, sans-serif; }
+#logo { text-align: center; vertical-align: center; }
+#idf024li13 { background-color: #c8102e; } /* Header section */
