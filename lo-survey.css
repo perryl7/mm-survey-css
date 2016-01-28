@@ -1,6 +1,25 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
 
 body { font-family: 'Montserrat', Arial, Helvetica, sans-serif !important; }
-h1#logo { text-align: center; vertical-align: center; } /* Align the header image properly */
-h1#logo { margin-left: auto; margin-right: auto; }
+#logo { text-align: center; vertical-align: center; } /* Align the header image properly */
+#logo { margin-left: auto; margin-right: auto; }
 #idf024li13 section { background-color: #c8102e; } /* Header section */
+
+/* Font Styles */
+#header h2 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; }
+#title1 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; }
+#field1 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; }
+#title2 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; }
+#field2 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; }
+#title3 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; }
+#field4 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; }
+#title4 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; }
+#field4 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; }
+#title5 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; }
+#field5 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; }
+#title6 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; }
+#field6 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; }
+#title7 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; }
+#field7 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; }
+#title8 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; }
+#field8 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; }
