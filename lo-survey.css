@@ -4,9 +4,9 @@ body { font-family: 'Montserrat', Arial, Helvetica, sans-serif !important; }
 #logo { text-align: center; vertical-align: center; } /* Align the header image properly */
 #logo { margin-left: auto; margin-right: auto; }
 #idf024li13 section { background-color: #c8102e; } /* Header section */
-
-/* Font Styles */
 #header h2 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; } /* Form Title */
+
+/* Field Font Styles */
 #title13 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; color: #FFFFFF; background-color: #c8102e; } /* Opinion text */
 #title1 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; } /* Loan ID label */
 #field1 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; } /* Loan ID field */
@@ -24,3 +24,6 @@ body { font-family: 'Montserrat', Arial, Helvetica, sans-serif !important; }
 #field7 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; } /* Closer Name field */
 #title8 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; } /* Closer Rating label */
 #field8 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; } /* Closer Rating field */
+
+/* Field Layout Styles */
+#fo24li1 div { display: inline; }
