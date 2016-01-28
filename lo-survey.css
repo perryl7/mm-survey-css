@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Montserrat);
 
 body { font-family: 'Montserrat', Arial, Helvetica, sans-serif !important; }
-#logo { text-align: center; vertical-align: center; }
-#idf024li13 { background-color: #c8102e; } /* Header section */
+h1#logo { text-align: center; vertical-align: center; } /* Align the header image properly */
+h1#logo { margin-left: auto; margin-right: auto; }
+#idf024li13 section { background-color: #c8102e; } /* Header section */
