@@ -56,9 +56,15 @@ body { font-family: 'Montserrat', Arial, Helvetica, sans-serif !important; }
 #fo24li1, #fo24li2, #fo24li3, #fo24li4, #fo24li5 {
     float:left;
     display:flex;
+    padding: 0 5px;
 }
 #fo24li3, #fo24li4, #fo24li5 {
     margin-top:15px;
+    font-size:18px;
+}
+#fo24li6, #fo24li10, #fo24li9 {
+    font-size:18px;
+    padding: 0 5px;
 }
 /* Field Input Box Styling */
 input.text {
