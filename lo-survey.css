@@ -4,7 +4,7 @@ body { font-family: 'Montserrat', Arial, Helvetica, sans-serif !important; }
 
 /* Header Section Styles */
 #logo { 
-    background-image: url('https://cdn.rawgit.com/perryl7/mm-survey-css/master/movement-logo-200x29.png');
+    /*background-image: url('https://cdn.rawgit.com/perryl7/mm-survey-css/master/movement-logo-200x29.png');*/
     min-height: 0;
     width: 200px;
     height: 60px;
