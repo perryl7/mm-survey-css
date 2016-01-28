@@ -56,6 +56,9 @@ body { font-family: 'Montserrat', Arial, Helvetica, sans-serif !important; }
     float:left;
     display:flex;
 }
+ #fo24li4, #fo24li5 {
+     margin-top:20px;
+ }
 /* Field Input Box Styling */
 input.text {
     border: 0px !important;
