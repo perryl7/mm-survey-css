@@ -7,7 +7,15 @@ body { font-family: 'Montserrat', Arial, Helvetica, sans-serif !important; }
 #header h2 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; } /* Form Title */
 
 /* Field Font Styles */
-#title13 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; color: #FFFFFF; background-color: #c8102e; font-size:18px; line-height: 24px; vertical-align: middle; } /* Opinion text */
+/* Opinion text */
+#title13 { 
+  font-family: 'Montserrat', Arial, Helvetica, sans-serif; 
+  color: #FFFFFF; 
+  background-color: #c8102e; 
+  font-size:18px; 
+  line-height: 24px; 
+  vertical-align: middle; 
+ } 
 #title1 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; } /* Loan ID label */
 #field1 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; } /* Loan ID field */
 #title2 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; } /* Borrower Name label */
@@ -27,16 +35,22 @@ body { font-family: 'Montserrat', Arial, Helvetica, sans-serif !important; }
 
 /* Field Layout Styles */
 #fo24li1 div label { 
-    /* Other styling.. */
-    text-align: right;
-    clear: both;
-    float:left;
-    margin-right:15px; }
+  text-align: right;
+  clear: both;
+  float:left;
+  margin-right:15px; 
+}
 
 /* Button Styles */
-#saveForm { color: #FFFFFF; background-color: #c8102e; border: 1px solid rgba(0,0,0,0.2); white-space: normal;
-    word-wrap: break-word;
-    max-width: 100%;     padding: 15px 25px;
-    background: #DDD;
-    text-shadow: none;
-    font-size: 16px;}
+#saveForm { 
+  color: #FFFFFF; 
+  background-color: #c8102e; 
+  border: 1px solid rgba(0,0,0,0.2); 
+  white-space: normal;
+  word-wrap: break-word;
+  max-width: 100%;
+  padding: 15px 25px;
+  background: #DDD;
+  text-shadow: none;
+  font-size: 16px;
+}
