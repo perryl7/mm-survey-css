@@ -3,18 +3,19 @@
 body { font-family: 'Montserrat', Arial, Helvetica, sans-serif !important; }
 
 /* Header Section Styles */
-#logo { text-align: center; vertical-align: middle; } /* Align the header image properly */
+#logo { 
+    background-image: url('https://cdn.rawgit.com/perryl7/mm-survey-css/master/movement-logo-200x29.png');
+    min-height: 0;
+    width: 200px;
+    height: 60px;
+    margin: 50px auto 0px auto; 
+}
 #logo { margin-left: auto; margin-right: auto; }
 #idf024li13 section { background-color: #c8102e; } /* Header section */
-#header h2 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; } /* Form Title */
-
-/* Field Input Box Styling */
-input.text {
-    background-color: #FFFFFF;
-    background: #FFFFFF;
-    border: 0px;
+#header h2 { 
+    font-family: 'Montserrat', Arial, Helvetica, sans-serif; 
+    text-align:center;
 }
-
 /* Field Font Styles */
 /* Opinion text */
 #title13 { 
@@ -23,7 +24,9 @@ input.text {
   background-color: #c8102e; 
   font-size:18px; 
   line-height: 24px; 
-  vertical-align: middle; 
+  vertical-align: middle;
+  text-align:center;
+  padding:10px;
  } 
 #title1 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; } /* Loan ID label */
 #field1 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; } /* Loan ID field */
@@ -49,6 +52,18 @@ input.text {
   float:left;
   margin-right:15px; 
 }
+#fo24li1, #fo24li2, #fo24li3, #fo24li4, #fo24li5 {
+    float:left;
+    display:flex;
+}
+/* Field Input Box Styling */
+input.text {
+    border: 0px !important;
+    background-color: transparent !important;
+    background: #fff !important;
+    width: 200px;
+    margin: 0px 20px;
+}
 
 /* Button Styles */
 #saveForm { 
@@ -62,4 +77,8 @@ input.text {
   padding: 15px 25px;
   text-shadow: none;
   font-size: 16px;
+  cursor:pointer;
+}
+#saveForm:hover {
+    background-color:#b40e29;
 }
