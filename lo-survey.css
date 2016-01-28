@@ -9,8 +9,9 @@ body { font-family: 'Montserrat', Arial, Helvetica, sans-serif !important; }
 #header h2 { font-family: 'Montserrat', Arial, Helvetica, sans-serif; } /* Form Title */
 
 /* Field Input Box Styling */
-input[type="text"] {
+input.text {
     background-color: #FFFFFF;
+    background: #FFFFFF;
     border: 0px;
 }
 
