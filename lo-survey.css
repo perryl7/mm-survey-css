@@ -98,3 +98,11 @@ input.text {
 #saveForm:hover {
     background-color:#b40e29;
 }
+
+/*radio button column fix*/
+li.notStacked div span {
+    width:140px;
+    font-size:14px;
+}
+
+}
